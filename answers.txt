@@ -1,5 +1,6 @@
-Ques1 What are some Pros and Cons of Agile development?
-Answer1: 
+Ques1) What are some Pros and Cons of Agile development?
+Answer1) 
+
 Pros of Agile:
 
 Flexibility: Easily adapts to changing requirements.
@@ -9,3 +10,17 @@ Cons of Agile:
 
 Less Predictability: Hard to estimate timelines and costs accurately.
 Requires High Collaboration: Demands constant communication, which can be challenging.
+
+--------------------------------------------------------------------------------------------------
+
+Ques2) Explain the role and responsibilities of Scrum Master vs the Product Owner.
+Answer2)
+
+The Scrum Master ensures the Scrum process runs smoothly by coaching the team on Agile practices, 
+removing any obstacles that hinder progress, and fostering a productive, collaborative environment. 
+They focus on improving team efficiency and maintaining workflow without directly managing the team.
+
+The Product Owner defines the product vision, prioritizes the product backlog, and clearly communicates
+requirements to the development team. They represent the customer’s interests, making sure the team 
+focuses on building features that provide the most value to the business and end-users.
+
