@@ -24,3 +24,25 @@ The Product Owner defines the product vision, prioritizes the product backlog, a
 requirements to the development team. They represent the customer’s interests, making sure the team 
 focuses on building features that provide the most value to the business and end-users.
 
+
+----------------------------------------------------------------------------------------------------
+Ques3)What are the 3 types of meetings that happen during a sprint cycle? List at least 2 points on 
+what needs to be discussed during each of these meetings.
+Answer3)
+
+1. Sprint Planning Meeting:
+
+Define Sprint Goals: Discuss what the team aims to achieve during the sprint.
+Select Backlog Items: Identify and prioritize user stories or tasks from the product backlog to work on.
+
+2. Daily Stand-up (Scrum) Meeting:
+
+Progress Update: Each team member shares what they did yesterday and what they plan to do today.
+Identify Blockers: Discuss any obstacles or issues preventing progress.
+
+3. Sprint Retrospective Meeting:
+
+What Went Well: Reflect on successes, effective processes, and positive team dynamics.
+What Can Be Improved: Identify challenges faced during the sprint and suggest ways to improve in the next sprint.
+
+-------------------------------------------------------------------------------------------------------------------
