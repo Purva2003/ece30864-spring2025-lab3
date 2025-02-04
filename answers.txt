@@ -46,3 +46,15 @@ What Went Well: Reflect on successes, effective processes, and positive team dyn
 What Can Be Improved: Identify challenges faced during the sprint and suggest ways to improve in the next sprint.
 
 -------------------------------------------------------------------------------------------------------------------
+Ques4) Differentiate between Epic, Story, Bug, and Tasks issue types in Jira
+Answer4)
+
+Epic: A large body of work that can be broken down into smaller user stories, tasks, or bugs. It represents a big feature or goal spanning multiple sprints.
+
+Story: A specific user requirement or feature that delivers value, usually written from the user's perspective. It’s a smaller piece of work within an Epic.
+
+Bug: An issue that represents a defect or error in the system that needs to be fixed to ensure proper functionality.
+
+Task: A unit of work that needs to be completed, often technical or operational, and not necessarily tied to user-facing features.
+
+-------------------------------------------------------------------------------------------------------------------------------
